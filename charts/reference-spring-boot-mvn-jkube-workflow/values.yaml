@@ -1,0 +1,3 @@
+global:
+  applicationName: ref-spring-boot-jkube-typ
+  serviceName: hello

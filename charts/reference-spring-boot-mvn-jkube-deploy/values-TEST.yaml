@@ -1,0 +1,5 @@
+replicaCount: 1
+image:
+  tag: replace-me # written by ploigos-step-runner
+route:
+  hostname: spring-boot-hello-jenkins-typ.test.apps.tssc.rht-set.com
